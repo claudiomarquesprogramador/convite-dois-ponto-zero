@@ -1,7 +1,7 @@
 @charset "utf-8";
 @font-face {
     font-family: 'GlacialIndifference';
-    src: url(onts/GlacialIndifference-Regular.otf) format('opentype');
+    src: url(fonts/GlacialIndifference-Regular.otf) format('opentype');
 }
 @font-face {
     font-family: 'LemonTuesday';
